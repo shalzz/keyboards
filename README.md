@@ -2,4 +2,4 @@
 
 A collection of various resources for the following mechanical keyboards:
 
-* [TADA68](https://github.com/shalzz/keyboards/tada68)
+* [TADA68](https://github.com/shalzz/keyboards/tree/master/tada68)
