@@ -1,3 +1,7 @@
+## Layout Editor
+
+You can use the official QMK layout editor for tada68 [here](https://config.qmk.fm/#/tada68/LAYOUT_ansi)
+
 ## Flashing on Linux
 
 If the "TADA68" USB mass storage device is not mounted automatically 
